@@ -17,7 +17,7 @@ elif salario >=8475.55:
 else:
     #teto máximo de contribuição
     salario = 8475.55
-    al = 0.14
+    al = 0.1417
     dedu = 198.49
 
 inss = (salario *al) - dedu

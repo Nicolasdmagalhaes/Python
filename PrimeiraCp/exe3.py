@@ -1,4 +1,4 @@
-compras = int(input('Digite o velor da compra: '))
+compras = int(input('Digite o valor da compra: '))
 if compras <= 100:
     print('Você ganhou 5% de desconto!')
 else:
