@@ -1,6 +1,8 @@
-# Desenvolva um algoritmo que solicite o salário atual de um funcionário e
-# o percentual de reajuste. O programa deve calcular o valor do aumento
-# e exibir o novo salário atualizado.
+'''
+Desenvolva um algoritmo que solicite o salário atual de um funcionário e
+o percentual de reajuste. O programa deve calcular o valor do aumento
+e exibir o novo salário atualizado.
+'''
 
 salario_atual = int(input('Digite o salario atual do funcionario:  '))
 reajuste = int(input('Digite o reajuste do funcionario: '))

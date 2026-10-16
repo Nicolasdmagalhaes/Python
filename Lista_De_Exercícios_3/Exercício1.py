@@ -1,6 +1,8 @@
-''' EXERCÍCIO 1
+'''
+EXERCÍCIO 1
 Crie um Algoritmo que solicita a entrada de um valor inteiro
-e exiba uma mensagem: "é número par" OU "é número ímpar".'''
+e exiba uma mensagem: "é número par" OU "é número ímpar".
+'''
 
 nu = int(input("Digite um número: "))
 

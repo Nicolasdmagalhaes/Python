@@ -1,4 +1,6 @@
-# 2. Elabore um algoritmo que receba a idade de 10 pessoas e, ao final, exiba o total de passeoas menores de 18 anos.
+'''
+2. Elabore um algoritmo que receba a idade de 10 pessoas e, ao final, exiba o total de passeoas menores de 18 anos.'
+'''
 
 menores = 0 # Variavel que o exercicio pede que seriam os menores de 18 anos
 

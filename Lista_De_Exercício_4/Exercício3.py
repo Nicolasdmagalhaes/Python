@@ -1,5 +1,7 @@
-# 3. Escreva um algoritmo que leia números indeterminados até que o valor,
-# zero seja inserido. Ao encerrar, apresente a soma de todos os valores digitados.
+'''
+3. Escreva um algoritmo que leia números indeterminados até que o valor,
+ zero seja inserido. Ao encerrar, apresente a soma de todos os valores digitados.
+'''
 
 soma = 0 # A variavel soma aumenta a cada numero novo digitado
 numero = int(input("Digite um número (0 para encerrar): ")) # o número séra a variavel que armazenara os numeros

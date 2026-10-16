@@ -1,7 +1,9 @@
-'''EXERCÍCIO 5
+'''
+EXERCÍCIO 5
 Crie um algoritmo que solicita a entrada de três valores
 inteiros e exiba apenas o menor entre eles. Caso sejam
-iguais, exiba a mensagem "Números iguais".'''
+iguais, exiba a mensagem "Números iguais".
+'''
 
 a = int(input('Digite um valor: '))
 b = int(input('Digite um valor: '))
