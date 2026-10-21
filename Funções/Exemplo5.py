@@ -2,12 +2,12 @@
 
 x = 0
 def alterar(n1):
-#    x = n1 # Redeclarando
+#     x = n1 # Redeclarando
 #    global x # Substituindo o valor de x
      x = n1
      print(x)
 
-alterar(10)
+alterar(7)
 print(x)
 
 ''' 
